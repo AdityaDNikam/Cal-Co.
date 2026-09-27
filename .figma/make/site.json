@@ -1,0 +1,10 @@
+{
+  "description": "Track daily protein and calorie intake with an intuitive dashboard featuring profile completion prompts and easy account management for fitness enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
